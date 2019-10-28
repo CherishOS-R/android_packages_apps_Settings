@@ -16,4 +16,14 @@
     <string name="cherish_settings_title">Cherish Settings</string>
     <string name="cherish_settings_summary">Don't try to change things when we haven't changed ourselves.</string>
 
+    <!-- About phone screen, Cherish version -->
+    <string name="cherish_version">Cherish version</string>
+    <string name="cherish_version_default">Unknown</string>
+    <string name="keywords_cherish_version">Cherish version</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+
 </resources> 
